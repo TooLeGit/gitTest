@@ -1,7 +1,7 @@
 gitTest
 =======
 
-My first respository on GitHub.
+My first respository on GitHub
 
 I love coffee, pizza, and video juegos! 
 
